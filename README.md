@@ -119,3 +119,5 @@ For those looking for an additional challenge, you will evaluate the number of b
   * The standard deviation of the number of backers.
 
 * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+
+* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
