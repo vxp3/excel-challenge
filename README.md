@@ -103,3 +103,19 @@ For those looking for an additional challenge, you will evaluate the number of b
 * Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
   ![Images/backers01.png](Images/backers01.png)
+
+* Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+
+  * The mean number of backers.
+
+  * The median number of backers.
+
+  * The minimum number of backers.
+
+  * The maximum number of backers.
+
+  * The variance of the number of backers.
+
+  * The standard deviation of the number of backers.
+
+* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
