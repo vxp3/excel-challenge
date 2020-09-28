@@ -72,3 +72,26 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * `Percentage Canceled`
 
 * In the `Goal` column, create 12 rows with the following headers:
+
+  * Less than 1000
+  * 1000 to 4999
+  * 5000 to 9999
+  * 10000 to 14999
+  * 15000 to 19999
+  * 20000 to 24999
+  * 25000 to 29999
+  * 30000 to 34999
+  * 35000 to 39999
+  * 40000 to 44999
+  * 45000 to 49999
+  * Greater than or equal to 50000
+
+  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+
+  * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
+
+* Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
+
+* Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+
+## Bonus Statistical Analysis
