@@ -61,3 +61,14 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 ## Bonus
 
 * Create a new sheet with 8 columns:
+
+  * `Goal`
+  * `Number Successful`
+  * `Number Failed`
+  * `Number Canceled`
+  * `Total Projects`
+  * `Percentage Successful`
+  * `Percentage Failed`
+  * `Percentage Canceled`
+
+* In the `Goal` column, create 12 rows with the following headers:
