@@ -53,3 +53,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * Now create a pivot chart line graph that visualizes this new table.
 
 * Create a report in Microsoft Word and answer the following questions.
+
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+2. What are some limitations of this dataset?
+3. What are some other possible tables and/or graphs that we could create?
