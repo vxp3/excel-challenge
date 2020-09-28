@@ -49,3 +49,5 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
   * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
+
+  * Now create a pivot chart line graph that visualizes this new table.
