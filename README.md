@@ -57,3 +57,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
+
+## Bonus
+
+* Create a new sheet with 8 columns:
